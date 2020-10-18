@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firegalery/static/css/main.716a9399.chunk.css",
+    "main.js": "/firegalery/static/js/main.fa855eff.chunk.js",
+    "main.js.map": "/firegalery/static/js/main.fa855eff.chunk.js.map",
+    "runtime-main.js": "/firegalery/static/js/runtime-main.248be790.js",
+    "runtime-main.js.map": "/firegalery/static/js/runtime-main.248be790.js.map",
+    "static/js/2.d07c5375.chunk.js": "/firegalery/static/js/2.d07c5375.chunk.js",
+    "static/js/2.d07c5375.chunk.js.map": "/firegalery/static/js/2.d07c5375.chunk.js.map",
+    "index.html": "/firegalery/index.html",
+    "precache-manifest.6d135904ebfc29b66c352eaa329d03ee.js": "/firegalery/precache-manifest.6d135904ebfc29b66c352eaa329d03ee.js",
+    "service-worker.js": "/firegalery/service-worker.js",
+    "static/css/main.716a9399.chunk.css.map": "/firegalery/static/css/main.716a9399.chunk.css.map",
+    "static/js/2.d07c5375.chunk.js.LICENSE.txt": "/firegalery/static/js/2.d07c5375.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.248be790.js",
+    "static/js/2.d07c5375.chunk.js",
+    "static/css/main.716a9399.chunk.css",
+    "static/js/main.fa855eff.chunk.js"
+  ]
+}
